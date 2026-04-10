@@ -1,4 +1,4 @@
 Hello..!
 this is devops class D-2
 
-welcome to the class - Dev branch
+welcome to the class-Dev branch
